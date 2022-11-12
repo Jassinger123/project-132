@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+  #div_name{
+    background-color: white;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    background-color: lightpink;
+    color: brown;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#div_age{
+    background-color: white;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    background-color: lightpink;
+    color: brown;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#button_home{
+    background-color:pink;
+    height: 80px;
+    width: 100px;
+    font-size: 23px;
+    margin-left: 40px;
+}
